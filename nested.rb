@@ -106,7 +106,10 @@ def changing_alan
      }
      alans_new_info = "GUI"
      programmer_hash[:alan_kay][:known_for]=alans_new_info
+<<<<<<< HEAD
      programmer_hash
+=======
+>>>>>>> f9c7074bacfdca5afaf1fbba846f280488b8d1b7
      
 end
 
